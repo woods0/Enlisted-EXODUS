@@ -3,33 +3,71 @@
   <a href="https://discord.gg/kaneki">Discord</a> |
   <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
   <a href="https://github.com/KanekiWeb">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/879708989158490152/883919490402897980/unknown.png" style="width: 60%">
 </p>
 
 ##  
 
 
-### ☕ Usage  
-- #### 💻 Downloading
-     ```
-    >> git clone https://github.com/KanekiWeb/Nitro-Generator/new/main
-    >> pip install -r requirements.txt
-    ```
-- #### 🖥️ Starting
-      1 - Enter your proxies in config/proxies.txt
-      2 - Create Discord Webhook and put link in config/config.json (optional)
-      3 - Enter a custom avatar url and username for webhook (optional)
-      4 - Select how many thread you want use in config/config.json (optional)
-      5 - Run main.py and enjoy checking
+- #### 💻 Downloading:
+
+- [𝘾𝙡𝙞𝙘𝙠 𝙏𝙤 𝙄𝙣𝙨𝙩𝙖𝙡𝙡]()
+
+     
 
 ##  
 
-### 🏆 Features List
-- Very Fast Checking
-- Proxy support: http/s, socks4/5, Premium
-- Simple Usage
-- Custom Thread
-- Send hit to webhook
+# 🏆 Features List
+## 𝙰𝚒𝚖𝚋𝚘𝚝:
+𝙴𝚗𝚊𝚋𝚕𝚎 𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗
+
+𝚂𝚒𝚕𝚎𝚗𝚝 𝚊𝚒𝚖
+
+𝚅𝚒𝚜𝚒𝚋𝚕𝚎 𝚘𝚗𝚕𝚢
+
+𝚃𝚊𝚛𝚐𝚎𝚝 𝚕𝚘𝚌𝚔
+
+𝙺𝚎𝚢
+
+𝚂𝚖𝚘𝚘𝚝𝚑
+
+𝙵𝙾𝚅 𝙳𝚛𝚊𝚠 
+
+𝙵𝙾𝚅 𝙿𝚛𝚒𝚘𝚛𝚒𝚝𝚢 (𝚂𝚌𝚛𝚎𝚎𝚗, 𝙽𝚎𝚊𝚛𝚎𝚜𝚝)
+
+𝙱𝚘𝚗𝚎 (𝙷𝚎𝚊𝚍, 𝙽𝚎𝚌𝚔, 𝙱𝚎𝚕𝚕𝚢, 𝙿𝚎𝚕𝚟𝚒𝚜)
+
+𝙷𝚘𝚟𝚎𝚛 𝚑𝚎𝚒𝚐𝚑𝚝
+
+## 𝚅𝚒𝚜𝚞𝚊𝚕𝚜: 
+𝙱𝚘𝚡
+
+𝙳𝚒𝚜𝚝𝚊𝚗𝚌𝚎
+
+𝙽𝚊𝚖𝚎
+
+𝙷𝚎𝚊𝚍
+
+𝚂𝚔𝚎𝚕𝚎𝚝𝚘𝚗
+
+𝚂𝚔𝚎𝚕𝚎𝚝𝚘𝚗 𝚝𝚑𝚒𝚌𝚔𝚗𝚎𝚜𝚜
+
+𝙽𝚊𝚖𝚎
+
+𝚌𝚘𝚕𝚘𝚛 𝙳𝚒𝚜𝚝𝚊𝚗𝚌𝚎
+
+𝚌𝚘𝚕𝚘𝚛 𝚅𝚒𝚜𝚒𝚋𝚕𝚎
+
+𝚌𝚘𝚕𝚘𝚛 𝙸𝚗𝚟𝚒𝚜𝚒𝚋𝚕𝚎
+
+𝚌𝚘𝚕𝚘𝚛 
+
+## 𝙼𝚒𝚜𝚌: 
+
+𝙽𝚘 𝚁𝚎𝚌𝚘𝚒𝚕
+
+𝙽𝚘 𝚂𝚙𝚛𝚎𝚊𝚍 
+
+𝙲𝚘𝚗𝚏𝚒𝚐 𝚜𝚢𝚜𝚝𝚎𝚖
 
 ##   
 
